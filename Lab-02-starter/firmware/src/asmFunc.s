@@ -55,6 +55,7 @@ asmFunc:
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
 
+    add R0,R0,R1
     
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
     
